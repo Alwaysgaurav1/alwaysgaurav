@@ -8,7 +8,7 @@
 - 💡 Exploring **Python, SQL, Pandas, Flask, and Scikit-learn**
 - 🔭 I’m currently working on **Automated Medical Image Diagnosis using Deep Learning**
 - 💬 Ask me about **Python, ML basics, or cool GitHub projects**
-- 📫 How to reach me: **gauravpandey@example.com**
+- 📫 How to reach me: **Gauravxyz98010@gmail.com**
 - ⚡ Fun fact: I love automating boring tasks and building side projects
 
 ---
